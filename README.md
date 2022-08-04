@@ -1,1 +1,2 @@
 # odin-recipes
+For this project I will be utilizing what I have learned from the Odin Project, to create my first project for the course. I will be implementing a basic html boilerplate, adding a head and body to the webpage. I will then link that webpage to another webpage where I will have recipes of my favorite food. There, I will have included an image and a basic unordered list of ingredients. Then proceed with an ordered list of instruction on how to get from one place to another.
